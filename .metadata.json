@@ -1,0 +1,26 @@
+[
+  {
+    "package": "radiant",
+    "oncran": true
+  },
+  {
+    "package": "radiant.basics",
+    "oncran": true
+  },
+  {
+    "package": "radiant.data",
+    "oncran": true
+  },
+  {
+    "package": "radiant.design",
+    "oncran": true
+  },
+  {
+    "package": "radiant.model",
+    "oncran": true
+  },
+  {
+    "package": "radiant.multivariate",
+    "oncran": true
+  }
+]
