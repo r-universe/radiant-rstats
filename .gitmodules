@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "radiant"]
 	path = radiant
 	url = https://github.com/radiant-rstats/radiant
-	shallow = true
-	registered = true
 [submodule "radiant.basics"]
 	path = radiant.basics
 	url = https://github.com/radiant-rstats/radiant.basics
-	shallow = true
-	registered = true
 [submodule "radiant.data"]
 	path = radiant.data
 	url = https://github.com/radiant-rstats/radiant.data
-	shallow = true
-	registered = true
 [submodule "radiant.design"]
 	path = radiant.design
 	url = https://github.com/radiant-rstats/radiant.design
-	shallow = true
-	registered = true
 [submodule "radiant.model"]
 	path = radiant.model
 	url = https://github.com/radiant-rstats/radiant.model
-	shallow = true
-	registered = true
 [submodule "radiant.multivariate"]
 	path = radiant.multivariate
 	url = https://github.com/radiant-rstats/radiant.multivariate
-	shallow = true
-	registered = true
